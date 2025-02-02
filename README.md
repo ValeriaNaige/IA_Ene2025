@@ -2,8 +2,8 @@
 Repositorio de la materia de Inteligencia Artificial
 
 # Certificados Kaggle
-- [01-Intro-To-Programming](./Kaggle/Intro_to_Programming_ValeriaRodriguez.pdf)
-- [02-Python](./Kaggle/Python_ValeriaRodriguez.pdf)
+- [01-Intro-To-Programming](/Kaggle/Intro_to_Programming_ValeriaRodriguez.pdf)
+- [02-Python](/Kaggle/Python_ValeriaRodriguez.pdf)
 
 # Enero y Febrero
 Actividades del primer periodo
