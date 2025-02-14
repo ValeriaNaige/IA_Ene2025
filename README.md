@@ -11,6 +11,8 @@ Repositorio de la materia de Inteligencia Artificial
 
 # Enero y Febrero
 Actividades del primer periodo
+- [Act01](./Act_Ene-Feb/Act01-ValeriaRodriguez.pdf)
+- [Act02](./Act_Ene-Feb/Act02-ValeriaRodriguez.pdf)
 
 # Marzo
 Actividades del segundo periodo
