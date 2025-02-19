@@ -15,6 +15,7 @@ Actividades del primer periodo
 - [Act02](./Act_Ene-Feb/Act02-ValeriaRodriguez.pdf)
 - [Act06](./Act_Ene-Feb/Act6_ValeriaRodriguez.pdf)
 - [Act07](./Act_Ene-Feb/Act7_ValeriaRodriguez.pdf)
+- [Act08](./Act_Ene-Feb/Act8_ValeriaRodriguez.pdf)
 
 # Marzo
 Actividades del segundo periodo
