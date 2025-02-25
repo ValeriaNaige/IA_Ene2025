@@ -7,6 +7,8 @@ Repositorio de la materia de Inteligencia Artificial
 - [03-Intro-to-Machine-Learning](/Kaggle/Intro_to_Machine_Learning_ValeriaRodriguez.pdf)
 - [04-Pandas](/Kaggle/Pandas_ValeriaRodriguez.pdf)
 - [05-Intermediate-Machine_Learning](/Kaggle/Intermediate_Machine_Learning_ValeriaRodriguez.pdf)
+- [06-Data-Visualizaction)](/IA_Ene2025/Kaggle/Data%20Visualization_ValeriaRodriguez.pdf)
+
 # Certificaciones
 - [Python 101 for Data Science](./Certificaciones/Python101_ValeriaRodriguez.pdf)
 
