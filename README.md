@@ -10,6 +10,7 @@ Repositorio de la materia de Inteligencia Artificial
 - [06-Data-Visualization](/Kaggle/Data_Visualization_ValeriaRodriguez.pdf)
 - [07-Feature-Engineering](/Kaggle/Feature_Engineering_ValeriaRodriguez.pdf)
 - [08-Intro-to-SQL](/Kaggle/Intro_to_SQL_ValeriaRodriguez.pdf)
+- [09-Advanced-SQL](/Kaggle/Advanced_SQL_ValeriaRodriguez.pdf)
 
 # Certificaciones
 - [Python 101 for Data Science](./Certificaciones/Python101_ValeriaRodriguez.pdf)
