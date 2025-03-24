@@ -27,6 +27,7 @@ Actividades del primer periodo
 Actividades del segundo periodo
 - [Act09](./Act_Marzo/Act9_Regresion_Lineal/Regresión_Lineal.pdf)
 - [Act10](./Act_Marzo/Act10_Regresion_Lineal_Multiple/Regresion_Lineal_Múltiple.pdf)
+- [Act11](./Act_Marzo/Act11_Regresion_Logistica/Regresión_Logística.pdf)
 
 # Abril y Mayo
 Actividades del tercer periodo
