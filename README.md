@@ -30,6 +30,7 @@ Actividades del segundo periodo
 - [Act10](./Act_Marzo/Act10_Regresion_Lineal_Multiple/Regresion_Lineal_Múltiple.pdf)
 - [Act11](./Act_Marzo/Act11_Regresion_Logistica/Regresión_Logística.pdf)
 - [Act12](./Act_Marzo/Act12_Arbol_de_decisión/Abrol_de_decision.pdf)
+- [Act13](./Act_Marzo/Act13_Random_forest/Random_Forest.pdf)
 
 # Abril y Mayo
 Actividades del tercer periodo
