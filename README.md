@@ -13,6 +13,7 @@ Repositorio de la materia de Inteligencia Artificial
 - [09-Advanced-SQL](/Kaggle/Advanced_SQL_ValeriaRodriguez.pdf)
 - [10-Intro-to-Deep-Learning](/Kaggle/Intro_to_Deep_Learning_ValeriaRodriguez.pdf)
 - [11-Computer-Vision](/Kaggle/Computer_Vision_ValeriaRodriguez.pdf)
+- [12-Time-Series](/Kaggle/Time_Series_ValeriaRodriguez.pdf)
 
 # Certificaciones
 - [Python 101 for Data Science](./Certificaciones/Python101_ValeriaRodriguez.pdf)
